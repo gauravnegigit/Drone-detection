@@ -12,7 +12,7 @@ Building a transfer learning model using EfficientNetB0 as the backbone. The arc
 # Model Training
 Training the model for 15 epochs with both training and validation datasets. The training history is stored for later analysis and visualization.
 
-# Training Results Visualizatio
+# Training Results Visualization
 Visualizing training progress through accuracy and loss curves. These plots help identify overfitting, underfitting, and overall model convergence patterns.
 
 # Model Evaluation
